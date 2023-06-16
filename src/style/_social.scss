@@ -1,0 +1,40 @@
+.icon-container{
+    width: 1520px;
+    background-color:  #111111;
+    display: flex;
+    justify-content: baseline;
+}
+
+.icons{
+    margin-left: 102px;
+    width: 223px;
+    height: 54px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background-color: #000;
+    cursor: pointer;
+}
+
+.phone{
+    display: flex;
+    color: white;
+    cursor: pointer;
+    margin: 20px 10px 16px 52px;
+}
+
+.change{
+    justify-content: space-evenly;
+    margin: 15px 112px 21px 254px;
+    width: 636px;
+    display: flex;
+    
+}
+
+.link-a{
+    color: white;
+}
+
+
+

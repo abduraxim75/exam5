@@ -1,0 +1,38 @@
+.carousel {
+    margin-bottom: 40px;
+    background-image: url("https://picsum.photos/1520/800");
+    background-repeat: no-repeat;
+    width: 1520px;
+    height: 855px;
+}
+
+.carousel-content {
+    display: flex;
+
+
+}
+
+.carousel-content {
+    margin-top: 280px;
+    margin-left: 113px;
+}
+
+.carousel-h3 {
+    font-size: 20px;
+    line-height: 34px;
+}
+
+.carousel-btn{
+    color: #fff;
+    background-color: #000;
+    margin-top: 50px;
+    width: 160px;
+    height: 40px;
+    
+}
+
+.carousel-btn:hover{
+    background-image: linear-gradient(to right, #29323c, #485563, #2b5876, #4e4376);
+    box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
+}
+

@@ -1,0 +1,88 @@
+.foot{
+    background-color: #efefef;
+    display: flex;
+    width: 1520px;
+    height: 440px;
+
+}
+
+.footer-logo-div{
+    margin: 80px 0px 0px 116px;
+}
+
+
+.footer-icons{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.icon-footer{
+    width: 45px;
+    height: 45px;
+    border-radius: 20px;
+    border: 1px solid rgb(220, 230, 234);
+    background-color: black;
+    align-items: center;
+    padding: 5px;
+}
+
+.footer-paragraph{
+    margin-top: 25px;
+    width: 397px;
+    height: 73px;
+}
+
+.hr2{
+    margin-bottom: 25px;
+    width: 60px;
+    height: 1px;
+    background-color: #5A5AC9;
+}
+
+.footer-big-div{
+    display: flex;
+}
+
+.footer-menu2{
+    margin: 80px 0px 0px 44px;
+    margin-left: 100px;
+}
+
+.info{
+    margin-bottom: 18px;
+}
+
+.footer-input{
+    width: 380px;
+    height: 47px;
+    border-radius: 30px;
+    border: none;
+}
+
+.foot-btn{
+    width: 91px;
+    height: 47px;
+    border-radius: 0px 30px 30px 0px;
+    background-color: #5A5AC9;
+    border: none;
+    color: white;
+}
+
+.end-footer{
+    background-color: black;
+    height: 55px;
+    display: flex;
+}
+
+.end-footer-paragraph{
+    color: white;
+    padding: 15px 0px 15px 112px;
+}
+
+.payments{
+    padding: 15px 112px 15px 701px;
+
+}
+

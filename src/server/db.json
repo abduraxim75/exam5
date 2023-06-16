@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "All Natural Makeup Beauty Cosmetics",
+            "price": 11.90,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-167&t=Cc5iEPpQP7TnuhUm-4"
+        },
+        {
+            "id": 2,
+            "title": "On Trend Makeup and Beauty Cosmetics",
+            "price": 11.90,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-191&t=RugyEe8dGouYyH5E-4"
+        },
+        {
+            "id": 3,
+            "title": "The Cosmetics and Beauty brand Shoppe",
+            "price": 21.51,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-239&t=Cc5iEPpQP7TnuhUm-4"
+        },
+        {
+            "id": 4,
+            "title": "orginal Age Defying Cosmetics Makeup",
+            "price": 11.90,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-215&t=Cc5iEPpQP7TnuhUm-4"
+        }
+    ],
+    "newarrivalproducts": [
+        {
+            "id": 1,
+            "title": "All Natural Makeup Beauty Cosmetics",
+            "price": 11.90,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-277&t=a1tk9w4bDICHKrtH-4"
+        },
+        {
+            "id": 2,
+            "title": "On Trend Makeup and Beauty Cosmetics",
+            "price": 11.90,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-301&t=a1tk9w4bDICHKrtH-4"
+        },
+        {
+            "id": 3,
+            "title": "The Cosmetics and Beauty brand Shoppe",
+            "price": 21.51,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-325&t=a1tk9w4bDICHKrtH-4"
+        },
+        {
+            "id": 4,
+            "title": "orginal Age Defying Cosmetics Makeup",
+            "price": 11.90,
+            "img": "https://www.figma.com/file/MNRkno24mXxzYjY4BnG90a/Untitled?type=design&node-id=1-349&t=a1tk9w4bDICHKrtH-4"
+        }
+    ]
+}
